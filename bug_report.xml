@@ -1,1 +1,1 @@
-
+<?xml version="1.0" encoding="UTF-8" ?><root>  <ID>01</ID>  <Modul>Main Page</Modul>  <Envirement>Windows 10</Envirement>  <Summary>System crashed after clicking Sign in button</Summary>  <Steps to reproduce>1.Open the URL... 2.Click Sign in button</Steps to reproduce>  <Expected Result>Sign in form is opened</Expected Result>  <Actual Result>System crashes</Actual Result>  <Reproducibility>2/10</Reproducibility>  <Attachment>URL..…</Attachment></root>
